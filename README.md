@@ -1,5 +1,5 @@
 # YT-Cats-Only-Watcher
-Simple youtube viedeos player that shows You only cats videos.
+Simple youtube videos player that shows You only cats videos.
 
 
 ### Getting Started
